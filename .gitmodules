@@ -1,0 +1,3 @@
+[submodule "API-Python"]
+	path = API-Python
+	url = https://github.com/misstamu/API-Python.git
